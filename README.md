@@ -2,7 +2,7 @@
 
 ## Thanks
 
-<a href="https://github.com"><img height="40" src="https://cdn.jsdelivr.net/gh/PDPENG/jason-storage/blog-img/GitHub.png"></a>
+<a href="https://github.com"><img height="40" src="https://cdn.jsdelivr.net/gh/PDPENG/jason-storage/blog-img/GitHub-Logo.png"></a>
 
 > GitHub rovide us with storage and open source support.
 
